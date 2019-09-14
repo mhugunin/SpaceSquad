@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mithr\\Desktop\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj": {}
+    "C:\\Users\\Annie Chen\\Source\\Repos\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mithr\\Desktop\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj": {
+    "C:\\Users\\Annie Chen\\Source\\Repos\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mithr\\Desktop\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj",
+        "projectUniqueName": "C:\\Users\\Annie Chen\\Source\\Repos\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj",
         "projectName": "SpaceSquad",
-        "projectPath": "C:\\Users\\mithr\\Desktop\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj",
-        "packagesPath": "C:\\Users\\mithr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mithr\\Desktop\\SpaceSquad\\SpaceSquad\\obj\\",
+        "projectPath": "C:\\Users\\Annie Chen\\Source\\Repos\\SpaceSquad\\SpaceSquad\\SpaceSquad.csproj",
+        "packagesPath": "C:\\Users\\Annie Chen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Annie Chen\\Source\\Repos\\SpaceSquad\\SpaceSquad\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\mithr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Annie Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
